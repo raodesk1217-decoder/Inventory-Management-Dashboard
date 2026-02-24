@@ -1,0 +1,101 @@
+﻿SKU_ID,SKU_Name,Category,Unit_Cost,Selling_Price,Reorder_Level,Supplier_ID
+RM001,Raw Material 001,Raw Material,782,0,117,SUP05
+RM002,Raw Material 002,Raw Material,535,0,62,SUP03
+RM003,Raw Material 003,Raw Material,365,0,243,SUP15
+RM004,Raw Material 004,Raw Material,399,0,116,SUP08
+RM005,Raw Material 005,Raw Material,606,0,236,SUP14
+RM006,Raw Material 006,Raw Material,653,0,231,SUP09
+RM007,Raw Material 007,Raw Material,228,0,283,SUP08
+RM008,Raw Material 008,Raw Material,254,0,200,SUP03
+RM009,Raw Material 009,Raw Material,502,0,224,SUP08
+RM010,Raw Material 010,Raw Material,484,0,295,SUP07
+RM011,Raw Material 011,Raw Material,731,0,199,SUP15
+RM012,Raw Material 012,Raw Material,229,0,99,SUP09
+RM013,Raw Material 013,Raw Material,799,0,260,SUP05
+RM014,Raw Material 014,Raw Material,583,0,140,SUP05
+RM015,Raw Material 015,Raw Material,601,0,61,SUP04
+RM016,Raw Material 016,Raw Material,505,0,222,SUP02
+RM017,Raw Material 017,Raw Material,172,0,149,SUP03
+RM018,Raw Material 018,Raw Material,584,0,177,SUP13
+RM019,Raw Material 019,Raw Material,130,0,264,SUP10
+RM020,Raw Material 020,Raw Material,143,0,222,SUP09
+RM021,Raw Material 021,Raw Material,617,0,266,SUP10
+RM022,Raw Material 022,Raw Material,587,0,132,SUP06
+RM023,Raw Material 023,Raw Material,600,0,216,SUP05
+RM024,Raw Material 024,Raw Material,668,0,272,SUP08
+RM025,Raw Material 025,Raw Material,642,0,235,SUP07
+PK001,Packing Item 001,Packing,695,0,101,SUP03
+PK002,Packing Item 002,Packing,102,0,225,SUP12
+PK003,Packing Item 003,Packing,240,0,253,SUP12
+PK004,Packing Item 004,Packing,113,0,66,SUP09
+PK005,Packing Item 005,Packing,558,0,87,SUP09
+PK006,Packing Item 006,Packing,642,0,214,SUP05
+PK007,Packing Item 007,Packing,396,0,273,SUP02
+PK008,Packing Item 008,Packing,607,0,298,SUP06
+PK009,Packing Item 009,Packing,208,0,110,SUP07
+PK010,Packing Item 010,Packing,106,0,180,SUP09
+PK011,Packing Item 011,Packing,356,0,293,SUP13
+PK012,Packing Item 012,Packing,339,0,183,SUP03
+PK013,Packing Item 013,Packing,265,0,152,SUP15
+PK014,Packing Item 014,Packing,233,0,256,SUP05
+PK015,Packing Item 015,Packing,793,0,202,SUP08
+PK016,Packing Item 016,Packing,671,0,145,SUP04
+PK017,Packing Item 017,Packing,674,0,53,SUP10
+PK018,Packing Item 018,Packing,722,0,133,SUP06
+PK019,Packing Item 019,Packing,729,0,216,SUP02
+PK020,Packing Item 020,Packing,425,0,105,SUP13
+PK021,Packing Item 021,Packing,90,0,254,SUP04
+PK022,Packing Item 022,Packing,128,0,85,SUP13
+PK023,Packing Item 023,Packing,614,0,271,SUP01
+PK024,Packing Item 024,Packing,440,0,236,SUP06
+PK025,Packing Item 025,Packing,99,0,118,SUP11
+SF001,Semi Finished 001,Semi-Finished,738,0,51,SUP01
+SF002,Semi Finished 002,Semi-Finished,272,0,60,SUP09
+SF003,Semi Finished 003,Semi-Finished,696,0,241,SUP09
+SF004,Semi Finished 004,Semi-Finished,642,0,112,SUP10
+SF005,Semi Finished 005,Semi-Finished,307,0,94,SUP08
+SF006,Semi Finished 006,Semi-Finished,202,0,99,SUP12
+SF007,Semi Finished 007,Semi-Finished,691,0,171,SUP02
+SF008,Semi Finished 008,Semi-Finished,629,0,137,SUP06
+SF009,Semi Finished 009,Semi-Finished,90,0,272,SUP14
+SF010,Semi Finished 010,Semi-Finished,378,0,144,SUP02
+SF011,Semi Finished 011,Semi-Finished,57,0,132,SUP01
+SF012,Semi Finished 012,Semi-Finished,523,0,241,SUP15
+SF013,Semi Finished 013,Semi-Finished,240,0,196,SUP10
+SF014,Semi Finished 014,Semi-Finished,290,0,72,SUP06
+SF015,Semi Finished 015,Semi-Finished,253,0,250,SUP03
+SF016,Semi Finished 016,Semi-Finished,538,0,80,SUP15
+SF017,Semi Finished 017,Semi-Finished,477,0,92,SUP11
+SF018,Semi Finished 018,Semi-Finished,233,0,260,SUP01
+SF019,Semi Finished 019,Semi-Finished,447,0,62,SUP09
+SF020,Semi Finished 020,Semi-Finished,183,0,188,SUP13
+SF021,Semi Finished 021,Semi-Finished,250,0,131,SUP15
+SF022,Semi Finished 022,Semi-Finished,374,0,200,SUP12
+SF023,Semi Finished 023,Semi-Finished,248,0,237,SUP10
+SF024,Semi Finished 024,Semi-Finished,421,0,59,SUP14
+SF025,Semi Finished 025,Semi-Finished,695,0,253,SUP09
+FG001,Finished Good 001,Finished Goods,302,778,88,SUP12
+FG002,Finished Good 002,Finished Goods,236,667,160,SUP15
+FG003,Finished Good 003,Finished Goods,254,675,60,SUP01
+FG004,Finished Good 004,Finished Goods,468,778,189,SUP04
+FG005,Finished Good 005,Finished Goods,562,787,92,SUP06
+FG006,Finished Good 006,Finished Goods,687,1163,63,SUP15
+FG007,Finished Good 007,Finished Goods,593,973,144,SUP14
+FG008,Finished Good 008,Finished Goods,265,522,166,SUP02
+FG009,Finished Good 009,Finished Goods,559,935,91,SUP05
+FG010,Finished Good 010,Finished Goods,727,1169,54,SUP06
+FG011,Finished Good 011,Finished Goods,688,890,237,SUP10
+FG012,Finished Good 012,Finished Goods,449,715,62,SUP15
+FG013,Finished Good 013,Finished Goods,153,427,217,SUP11
+FG014,Finished Good 014,Finished Goods,284,490,267,SUP06
+FG015,Finished Good 015,Finished Goods,472,912,288,SUP11
+FG016,Finished Good 016,Finished Goods,771,1076,226,SUP02
+FG017,Finished Good 017,Finished Goods,400,873,62,SUP07
+FG018,Finished Good 018,Finished Goods,772,1188,139,SUP10
+FG019,Finished Good 019,Finished Goods,544,880,185,SUP14
+FG020,Finished Good 020,Finished Goods,569,1060,294,SUP13
+FG021,Finished Good 021,Finished Goods,547,832,145,SUP14
+FG022,Finished Good 022,Finished Goods,668,1131,109,SUP08
+FG023,Finished Good 023,Finished Goods,590,838,181,SUP07
+FG024,Finished Good 024,Finished Goods,153,518,106,SUP10
+FG025,Finished Good 025,Finished Goods,433,742,265,SUP10
